@@ -51,7 +51,18 @@ Make data-driven business decisions
 ✨ This project strengthened my skills in data cleaning, KPI design, dashboarding, and business analysis.
 ## 📸 Dashboard Screenshots
 
-![Sales Dashboard Overview](dashboard_1.png)
-![Sales Dashboard KPIs](dashboard_2.png)
-![Sales Dashboard Analysis](dashboard_3.png)
+<p align="center">
+  <img src="dashboard_1.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="dashboard_2.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="dashboard_3.png" width="800"/>
+</p>
+
+
+
 
